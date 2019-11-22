@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5f439b8233a22e3bf4ade984d4a10f0b.js"
+  "/poker-clock-site/precache-manifest.e8467419ff7f183467f46f96c57efa75.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "poker-clock"});
